@@ -1,7 +1,7 @@
 # ic-08
 ic-08 - Intro to D3 Part 2
 
-Link to GitHub Pages: `[insert your clickable hyperlink here]`
+Link to GitHub Pages: [https://ds4200-s23-class.github.io/ic-08-krish/]
 
 ## Purpose
 
@@ -13,14 +13,14 @@ Clone this repo and work locally. Be sure to push the final version of your code
 
 1. Resources to support this assignment are provided below in the Resources section.  
 
-1. Create a GitHub Page for your repo and add the link to it above where you see `[insert your clickable hyperlink here]`. 
+2. Create a GitHub Page for your repo and add the link to it above where you see [https://ds4200-s23-class.github.io/ic-08-krish/]. 
 
-1. Using the provided index.html, d3.js libray, an external CSS file (no styling should be included in your html file), and an external js file (no js code should be included in your html file), please do the following: 
+3. Using the provided index.html, d3.js libray, an external CSS file (no styling should be included in your html file), and an external js file (no js code should be included in your html file), please do the following: 
    - Title your webpage "ic-08". 
    - Add a heading that says "D3 Part 2".
    - Use d3 to create a barchart for the data included in this repo.  
 
-1. Add a header to the bottom of your page. The header should say "Acknowledgements". Under this header, list of the resources you used to complete this assignment.
+4. Add a header to the bottom of your page. The header should say "Acknowledgements". Under this header, list of the resources you used to complete this assignment.
 
 ## Resources 
 
